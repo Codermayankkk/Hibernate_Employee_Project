@@ -27,10 +27,8 @@ To run this project, ensure you have the following installed on your system:
 
 Java Development Kit (JDK) 8 or later.
 
-Apache Maven for building the project.
-
 MySQL Database (or equivalent RDBMS).
 
-Hibernate ORM library.
+Hibernate ORM JAR.
 
 A Java IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code).
