@@ -22,8 +22,6 @@ ORM Framework: Hibernate
 
 Database: MySQL (or any RDBMS of your choice)
 
-Build Tool: Maven
-
 ## Prerequisites
 To run this project, ensure you have the following installed on your system:
 
